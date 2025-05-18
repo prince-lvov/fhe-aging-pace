@@ -54,7 +54,7 @@ To avoid compilation issues, we wanted to manually define input and output types
 
 Our implementation of DunedinPACE using FHE is a promising step toward privacy-preserving aging pace estimation. The simple FHE version offers good accuracy for most applications, while the high-precision version provides even closer results to the original model.
 
-👉 Try our Hugging Face demo: [https://huggingface.co/spaces/horaizon27/aging\_pace](https://huggingface.co/spaces/horaizon27/fhe_aging_pace)
+👉 Try our Hugging Face demo: [https://huggingface.co/spaces/horaizon27/fhe_aging_pace](https://huggingface.co/spaces/horaizon27/fhe_aging_pace)
 
 ---
 
